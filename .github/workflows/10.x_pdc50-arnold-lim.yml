@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'pdc50-arnold-lim'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E2BBE2EB5AFB42FDA4BB0AC0783107B5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7CAC88E8432B460AB132995563AA3AE1 }}
           package: .
